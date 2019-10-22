@@ -1,0 +1,136 @@
+body{
+	max-width: 1078px; 
+	min-width: 1078px;
+	margin:0px auto;
+}
+header{
+	padding-bottom: 40px;
+	border-bottom-style:dashed;
+	border-color:gray;
+	border-width: 2px;
+}
+header article{
+	float:right;
+}
+header nav{
+	margin-top:50px;
+	margin-left:-25px;
+}
+header nav ul li{
+	display:inline-block;
+	margin-right:25px;
+	font-weight: bold;
+}
+footer{
+	margin-top:50px;
+	line-height: 20px;
+}
+footer article hr{
+	height: 0px;
+	border:1px solid gray;
+	margin-right: 10px;
+	margin-top:15px;
+}
+#img1{
+	width:200px;
+	margin-top:30px;
+	margin-left:15px;
+}
+#img2{
+	float:right;
+	margin-top:50px;
+}
+#img3{
+	float:right;
+	margin-top:-50px;
+	margin-right:360px;
+	width:50px;
+}
+#Secc01Art01{
+	width:52%;
+	font-size:4.5em;
+	border-bottom-style:dashed;
+	border-width:2px;
+	border-color:gray;
+	margin-left:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+#Secc01Art02{
+width:52%;
+padding-top:30px;
+font-size:17px;
+text-align:justify;
+color:gray;
+}
+#Secc01Art03{
+	width:24%;
+	display: inline-block;
+}
+#Secc01Art04{
+	width:24%;
+	display: inline-block;
+}
+#video01{
+	width:265px;
+	margin-top:30px;
+	margin-left:-5px;
+}
+#video02{
+	width:265px;
+	margin-left:20px;
+}
+#cinco{
+	float:right;
+	margin-top:-105px;
+	margin-right:335px;
+	position: relative;
+}
+#bike{
+	width:350px;
+	float:right;
+	margin-right:70px;
+	margin-top:-450px;
+}
+#Secc02Art02{
+	width:18%;
+	display:inline-block;
+	margin-top:50px;
+	font-size:16px;
+}
+#Secc02Art03{
+	width:18%;
+	display:inline-block;
+	margin-top:50px;
+}
+#Secc02Art04{
+	width:18%;
+	display:inline-block;
+	vertical-align:top;
+	margin-top:50px;
+}
+#Secc02Art05{
+	width:18%;
+	display:inline-block;
+	vertical-align:top;
+	margin-top:50px;
+}
+#Secc02Art06{
+	width:18%;
+	display:inline-block;
+	vertical-align: top;
+	margin-top:50px;
+}
+.catorce{
+	font-size:17px;
+	color:gray;
+}
+.verde{
+	color:#73f33d;
+}
+.nito{
+	font-weight: bold;
+}
+.gray{
+	color:gray;
+}
