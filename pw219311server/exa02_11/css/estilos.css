@@ -1,0 +1,77 @@
+body{
+	max-width:1024px;
+	margin:0px auto;
+}
+header{
+	margin-bottom:40px;
+	border-bottom:3px solid black;
+	padding-bottom:20px;
+}
+header nav ul li{
+	display:inline-block;
+	margin-top:13px;
+	margin-right:5px;
+	font-size:15px;
+}
+header nav{
+	margin-left:-10px;
+}
+header h2{
+  	text-align:center;
+  	margin-top:-70px;
+}
+#img01{
+	float:left;
+	margin-top:5px;
+	margin-left:-10px;
+}
+#img02{
+	position:relative;
+	top:-35px;
+	left:130px;
+	width:30px;
+}
+#Articleheader{
+	text-align:right;
+	margin-top:-40px;
+}
+#Secc01{
+	width:60%;
+	border-right: 3px solid black;
+	padding-right:200px;
+}
+#Secc01 article img{
+	width:600px;
+	margin-left:115px;
+	margin-top:-20px;
+}
+#Secc01Abajo{
+margin-top:20px;
+margin-left: 115px;
+font-size:11px;
+}
+#Indigo{
+	position:absolute;
+	margin-top:160px;
+	font-size:2.5em;
+	margin-left:30px;
+}
+#Secc01Art02{
+	margin-top:40px;
+	font-size:12px;
+	margin-left:180px;
+	width:57%;
+}
+#Secc02{
+	width:20%;
+}
+#tela{
+	width:200px;
+	margin-left:850px;
+	margin-top:-750px;
+}
+
+#Secc02Art02 img{
+	width:300%;
+}
+
